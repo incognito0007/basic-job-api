@@ -209,6 +209,7 @@ src/pages/Jobs.jsx
 * 🎨 Tailwind CSS UI
 * 🌐 Deployment (Render + Vercel)
 * 🔐 Authentication (JWT)
+* 🧪 Test case addition using react libraries (vitest)
 
 ---
 
